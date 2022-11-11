@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "Poppins";
+    src: url("../Fonts/Poppins-Regular.ttf");
+    }
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins";
+    font-size: 14px;
+    }
+    
+.product__availability--available{
+    color:#009901;
+}
+.btn--mono{
+    color: black;
+    background-color: white;
+    border-color: black;
+    text-decoration: none;
+}
+.product__name{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
